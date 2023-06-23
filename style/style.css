@@ -2,7 +2,6 @@
 *,
 *:before,
 *:after {
-  box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
@@ -101,7 +100,6 @@ section{
 }
 section .content{
     width: 100%;
-    padding-left: 10%;  
     text-align: center; 
 }
 section .content h1 {
