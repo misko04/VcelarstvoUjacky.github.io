@@ -109,6 +109,7 @@ section .content h1 {
     text-align: center;
 }
 section .content h1::after{
+  
     top: unset;bottom: -2rem;
 }
 .buttonholder{
